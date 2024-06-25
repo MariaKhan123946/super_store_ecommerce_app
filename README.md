@@ -157,7 +157,6 @@ Contributions are welcome! Please fork this repository and submit pull requests.
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-![Screenshot_20240624-111223](https://github.com/AMNAMAHAR/super_store_ecommerce_app/assets/158574242/71738d32-1a06-4fbd-a484-17f9fd88c20f)
 
 ![Screenshot_20240624-110810](https://github.com/AMNAMAHAR/super_store_ecommerce_app/assets/158574242/d5678b93-5c49-4137-97d8-1a4dd3da211c)
 
@@ -169,7 +168,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ![Screenshot_20240624-111146](https://github.com/AMNAMAHAR/super_store_ecommerce_app/assets/158574242/cdb08a08-95d9-4268-8615-02fa11e2a51b)
 
-![Uploading Screenshot_20240624-111159.png…]()
+![Screenshot_20240624-111223](https://github.com/AMNAMAHAR/super_store_ecommerce_app/assets/158574242/71738d32-1a06-4fbd-a484-17f9fd88c20f)
 
 ![Screenshot_20240624-111257](https://github.com/AMNAMAHAR/super_store_ecommerce_app/assets/158574242/71950c2a-e303-4d26-acea-c47ee765793c)
 
