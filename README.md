@@ -22,9 +22,10 @@ Firebase Project: Create a Firebase project
 Firebase CLI: Install Firebase CLI
 Clone the Repository:
 
-git clone https://github.com/AMNAMAHAR
+git clone https://github.com/MariaKhan123946
 /
-super_store_ecommerce_app.git
+super_store_ecommerce_app
+
 cd super_store_ecommerce_app
 
 Add Firebase to Your Flutter App:
